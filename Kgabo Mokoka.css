@@ -205,7 +205,9 @@ section{
     margin-top: 1rem;
     gap: 1rem;
 }
-
+img{
+    border-radius: 100px;  /* TODO: Fix this according to the picture used */ 
+}
 /* Icons */
 
 .icon{
