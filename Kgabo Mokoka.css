@@ -205,11 +205,17 @@ section{
     margin-top: 1rem;
     gap: 1rem;
 }
+<<<<<<< HEAD
 
 img{
     border-radius: 100px;
 }  /* edit pictures so that they look similar */ 
 
+=======
+img{
+    border-radius: 100px;  /* TODO: Fix this according to the picture used */ 
+}
+>>>>>>> aa5130347e2b74e756a5ad0b6521c73b851d0206
 /* Icons */
 
 .icon{
